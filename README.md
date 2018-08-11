@@ -50,12 +50,11 @@
 # Strings
 
 ### Resources
-- [ ] tutorialspoint.com - C++ strings
-- [ ] guru99.com - Java strings
-- [ ] docs.python.org - Python strings
-- [ ] tutorialspoint.com - Python strings
-- [ ] Many questions on the string:
-- [ ] geeksforgeeks.org - String Data Structure
+- [ ] ~~torialspoint.com - C++ strings~~
+- [ ] ~~guru99.com - Java strings~~
+- [X] ~~docs.python.org - Python strings~~(Refer some string cheat sheet for summary)
+- [X] tutorialspoint.com - Python strings.(Good Examples)
+- [ ] Many questions on the string: eeksforgeeks.org - String Data Structure
 ### Practice Problems
 - [ ] codechef.com - CSUB, editorial
 - [ ] codechef.com - LAPIN, editorial
