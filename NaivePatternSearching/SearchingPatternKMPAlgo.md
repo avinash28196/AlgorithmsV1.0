@@ -186,7 +186,7 @@ How to use lps[] to decide next positions (or to know a number of characters to 
 
 # Python program for KMP Algorithm
 
-
+```python
 
 def KMPSearch(pat, txt):
     M = len(pat)
