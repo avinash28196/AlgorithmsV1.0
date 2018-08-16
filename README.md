@@ -56,8 +56,8 @@
 - [X] tutorialspoint.com - Python strings.(Good Examples)
 - [ ] Many questions on the string: eeksforgeeks.org - String Data Structure
 ### Practice Problems
-- [ ] codechef.com - CSUB, editorial
-- [ ] codechef.com - LAPIN, editorial
+- [X] codechef.com - CSUB, editorial
+- [X] codechef.com - LAPIN, editorial
 
 # Stack and Queue
 ### 1. Resources
