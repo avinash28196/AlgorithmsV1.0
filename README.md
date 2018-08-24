@@ -39,13 +39,13 @@
 - [ ] cs.cmu.edu - Arrays
 - [ ] geeksforgeeks.org - Arrays Data Structure
 ### 2. Practice Problems
-- [ ] codechef.com - LECANDY, editorial
-- [ ] codechef.com - CNOTE, editorial ;
+- [X] codechef.com - LECANDY, editorial
+- [X] codechef.com - CNOTE, editorial ;
 - [ ] codechef.com - SALARY, editorial
-- [ ] codechef.com - CHN15A, editorial
+- [X] codechef.com - CHN15A, editorial
 - [ ] codechef.com - RAINBOWA, editorial
 - [ ] codechef.com - FRGTNLNG, editorial
-- [ ] codechef.com - COPS, editorial
+- [X] codechef.com - COPS, editorial
 
 # Strings
 
