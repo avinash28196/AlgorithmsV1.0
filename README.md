@@ -195,7 +195,7 @@
 - [X] ~~codechef.com~~
 - [X] ~~usfca.edu~~ **Visulation Of Binary Search**
 - [X] ~~anacademy.org~~
-- [ ] Detailed Theoretical analysis
+- [X] Detailed Theoretical analysis
       - cmu.edu (A theoretical analysis)
 ### 2. Problems
 - [ ] geeksforgeeks.org - Binary Search (Contains some solved problems)
