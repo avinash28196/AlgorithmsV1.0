@@ -61,7 +61,7 @@
 
 # Stack and Queue
 ### 1. Resources
-- [ ] geeksforgeeks.org - Stack Data Structure
+- [X] geeksforgeeks.org - Stack Data Structure
 - [ ] geeksforgeeks.org - Introduction and Array Implementation
 - [ ] tutorialspoint.com - Data Structures Algorithms
 - [ ] cs.cmu.edu - Stacks
