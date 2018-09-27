@@ -55,7 +55,7 @@ public static long factorial(int n) {
 }
 ```
 
-This is a [interactive visualization of factorial ](http://www.pythontutor.com/visualize.html#mode=edit) 
+This is a [interactive visualization of factorial](http://www.pythontutor.com/visualize.html#mode=edit) 
 
 ## Recursive implementation of the Fibonacci.
 
