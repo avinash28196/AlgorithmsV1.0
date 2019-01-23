@@ -115,7 +115,7 @@
 
 # Greedy Algorithms
 ### 1. Resources
-- [ ] iarcs.org.in - Greedy Algorithms
+- [X] iarcs.org.in - Greedy Algorithms
 - [ ] iarcs.org.in - Greedy Algorithms
 - [ ] topcoder.com - Greedy Algorithms
 - [ ] Greedy Algorithms
