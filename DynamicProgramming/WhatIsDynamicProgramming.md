@@ -30,3 +30,17 @@ Using Dynamic Programming approach with memoization:
         for (int i = 2; i<n; i++)
            fibresult[i] = fibresult[i-1] + fibresult[i-2];
     }
+
+
+
+When to use dynamic programming?
+
+1. Optimal substructure: In layman terms, if I could break a problem into smaller versions of it, and then combine solutions to the smaller problems, 
+		I'll have solved the problem at hand. 
+
+2. Overlapping subproblems: 
+	 While solving those smaller problem that leads to the same repetitive calculation steps, we term these as overlapping sub problems. 
+	 Hence instead of solving for the same calculation steps over and over, we can store solutions to previous calculated steps it into a memory such as hash map or an array. 
+	 
+	 
+	 
