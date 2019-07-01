@@ -71,7 +71,7 @@
 - [ ] spoj.com - JNEXT
 - [ ] spoj.com - STPAR
 - [ ] spoj.com - ONP
-- [ ] codechef.com - COMPILER
+- [X] codechef.com - COMPILER
 - [ ] spoj.com - MMASS
 - [ ] spoj.com - HISTOGRA
 - [ ] codeforces.com - D. Maximum Xor Secondary
