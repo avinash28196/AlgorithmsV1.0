@@ -1,5 +1,8 @@
 # CCDSAP Foundation Syllabus:
 
+
+Jun 25th first attempt 
+
 1. Basic Data Structures: Arrays, Strings, Stacks, Queues
 2. Asymptotic analysis (Big-O notation)
 3. Basic math operations (addition, subtraction, multiplication, division, exponentiation)
