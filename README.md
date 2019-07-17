@@ -1,7 +1,7 @@
 # CCDSAP Foundation Syllabus:
 
 
-Jun 25th first attempt 
+Jun 25th first attempt rescheduled it.
 
 1. Basic Data Structures: Arrays, Strings, Stacks, Queues
 2. Asymptotic analysis (Big-O notation)
